@@ -1,4 +1,5 @@
 # Anti-Crash-Dumper7
+These changes were required to dump unreal engine 5 game I was tinkering with. I believe it may have been a rare instance of bad developers making a terrible product but in testing against two ue4 games that are also unstable, I never failed to generate a valid sdk again.
 Many changes over years of use to prevent null pointers from killing the sdk. Some games have garbage collectors or other things that break vanilla dumper7.
 
 # personal notes of changes:
